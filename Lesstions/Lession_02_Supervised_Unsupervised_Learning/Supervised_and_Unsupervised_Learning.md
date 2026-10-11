@@ -24,9 +24,9 @@ Two basic groups of machine learning are:
 
 The goal is to learn a mapping function from inputs to outputs:
 
-\[
+$$
 \hat{y} = f(X)
-\]
+$$
 
 Here, \(X\) is the input data, \(f\) is the trained model, and \(\hat{y}\) is the predicted result.
 
