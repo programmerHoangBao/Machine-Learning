@@ -28,7 +28,7 @@ $$
 \hat{y} = f(X)
 $$
 
-Here, \(X\) is the input data, \(f\) is the trained model, and \(\hat{y}\) is the predicted result.
+Here, $X$ is the input data, $f$ is the trained model, and $\hat{y}$ is the predicted result.
 
 ### 2.2. Examples
 
